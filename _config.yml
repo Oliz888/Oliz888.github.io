@@ -1,11 +1,15 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Shirui (Oli) Zhou # your name (or website title) here
+logo: "/images/pic.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Analyst @ <a href="https://www.ashoka.org/en-us">Ashoka</a>
+  Operation Assistant @ <a href="https://matters-lab.io/">Matters</a>
+  Research Assistant @ <a href="https://www.intellisia.org/#/index">Intellisia</a>
+
+  Data Science for Public Policy @ Georgetown 
   <br><br>
-  Second description 
+  A human really love sea 🏝 Skateboarding 🛹 Guitar 🎸 and photography 📹
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/shirui-zhou-9a2a0719a/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:

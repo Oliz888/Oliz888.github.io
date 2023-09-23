@@ -32,7 +32,7 @@
 [code](/https://github.com/Oliz888/Predicting_UBI_Machine_Learning/blob/main/machine_learning.ipynb)
 [slides](/slides/UBI_slides.pdf)
 
-<img src="images/EU_value.png?raw=true"/>
+<img src="images/UBI.png?raw=true"/>
 
 ---
 
@@ -54,6 +54,9 @@
 
 [paper](/pdf/remmittance_paper.pdf)
 [code](/https://github.com/Oliz888/Economics_and_Statistics/blob/main/DT%20final%20dradt.Rmd)
+
+
+<img src="images/remmittance.png?raw=true"/>
 
 ---
 ### George Floyd protests' impact on the election result

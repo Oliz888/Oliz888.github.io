@@ -16,6 +16,9 @@
 
 ### How Consensus can be Involved through Innovating Voting Mechanism? Using Polis Platform as an Example
 
+##### - Using PCA and UMAP to visualize the participants’ stance on a 2-dimensional map, uses Kmeans to cluster and classify group A and B, and uses centroid coords calculation to get the distance between two groups.
+
+
 [paper](/pdf/Consensus%20Detection%20in%20Innovating%20voting%20process.pdf)
 [code](/https://github.com/Oliz888/Voting_Consensus_Detection/blob/main/voting_and_consensus.ipynb)
 [slides](/slides/voting%20consensus%20slides.pdf)

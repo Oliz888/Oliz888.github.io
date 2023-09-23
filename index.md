@@ -24,7 +24,7 @@
 
 ---
 
-### - Predicting Attitudes towards UBI in EU using Supervised Machine Learning Techniques
+### Predicting Attitudes towards UBI in EU using Supervised Machine Learning Techniques
 
 ##### - Built and trained Logistic Regression, DecisionTree, SVM, RandomForest, XGBoost and GBDT to identify 5 primary indicators and 35 secondary indicators the key influential factor on the attitude of EU citizen towards UBI
 
@@ -36,7 +36,7 @@
 
 ---
 
-### - Using DID to Evaluate the Impact of Intensive Case Management Services 
+### Using DID to Evaluate the Impact of Intensive Case Management Services 
 
 ##### - Designed DID to construct quasi-experiment setting for causal inference to quantify the impacts
 
@@ -81,7 +81,7 @@
 
 ---
 
-### What if we have an Digital Agora...Reimagine Social Platform with Tokenization of Attention Economy, Bridging-based Algorithm and Quadratic Voting
+### What if we have an Digital Agora? Reimagine Social Platform with Tokenization of Attention Economy, Bridging-based Algorithm and Quadratic Voting
 [paper](/pdf/What%20if%20we%20have%20an%20Digital%20Agora...%20-%20by%20oliz0808.eth.html)
 
 ---

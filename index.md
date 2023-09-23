@@ -78,32 +78,50 @@
 ---
 
 ### Decentralized Web as Public Sphere
+
 [paper](/pdf/Decentralized%20Web%20as%20a%20Public%20Sphere.pdf)
+
+##### - Your taste, your deepest fear and your dream are, in a sense, shaped by the allocation of your attention, which are disproportionately allocated to the commercial advertisement, where capital intentionally directs. This can be a silent penetration process, as depicted in the The Society of the Spectacle by Guy Debord, where the consumer culture and commodity fetishism would only affect the individual thinking and decision-making in a subconscious way.
 
 ---
 
 ### Protocolizing the Governance of Public Goods: Using Social Media as an Example
+
 [paper](/pdf/Protocolizing%20the%20Governance%20of%20Public%20Goods.pdf)
+
+##### - By applying Elinor Ostrom's Institutional Analysis and Development (IAD) framework to common-pool resource problems (Ostrom, 2005), this study aims to explore the possibilities and limitations of protocolization in addressing the governance challenges of social media platforms. In doing so, the paper delves into the paradox of programmability and irreproducibility, examining the potential risks of systematizing and institutionalizing bias (Crawford, 2016), while considering alternative approaches that reimagine the relationship between technology and democracy (Winner, 1986).
+
 
 ---
 
-### What if we have an Digital Agora? Reimagine Social Platform with Tokenization of Attention Economy, Bridging-based Algorithm and Quadratic Voting
-[paper](/pdf/What%20if%20we%20have%20an%20Digital%20Agora...%20-%20by%20oliz0808.eth.html)
+### What if we have an Digital Agora? 
+
+[paper](/https://oliz0808eth.substack.com/p/what-if-we-have-an-digital-agora)
+
+##### - Reimagine Social Platform with Tokenization of Attention Economy, Bridging-based Algorithm and Quadratic Voting
 
 ---
 
 ### Strategies for Government Relations in US and EU to VP for Governmental Relations at Facebook
+
 [paper](/pdf/Strategies%20for%20Government%20Relations%20in%20US%20and%20EU.pdf)
+
+##### - Although Facebook need to face the judging of “big tobacco moment” in technology corporations, it has several opportunists as one of the most powerful platforms. This paper concludes on to realize the profit maximization, it need to cooperate with government and serve as a safeguard for public interest, which can be achieved by grass-root movement, build coalition with government officials, and reframe its public image.
 
 ---
 
 ### Strategies for Green Party to Robert Habeck, Vice Chancellor, Federal Minister for Economic Affairs and Climate Action, Co-leader of Green Party
+
 [paper](/pdf/Strategies%20for%20Green%20Party.pdf)
 
----
+##### - The division of opinion over multiple issues in the current traffic light coalition and the raising of Afd, as well as the pervasiveness of anti-globalization, populism and polarization could impose further difficulty for Greens to maintain its position in the coalition. Considering the current global economic recession and democracy deconstruction, Greens should be prepared to forgo some universal basic values and adopt more realistic foreign policies, and advocate for strengthening national power, with the emphasis on its representativeness of future and hope.
+--- 
 
 ### Strategies to Constrain the Cigarette and Vaping Industries to the President of the United States, Joseph Biden
+
 [paper](/pdf/Strategies%20to%20Constrain%20the%20Cigarette%20and%20Vaping%20Industries.pdf)
+
+##### - This memorandum suggests using COVID-19 as opportunity window, reframing the debate as the movements to greater ethnic equity and realization of national value, building advocacy coalition and discrediting the front group as three- pronged political strategies to constraint the cigarettes and vaping strategies.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>

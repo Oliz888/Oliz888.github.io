@@ -7,7 +7,7 @@
 ##### - Deployed K-core decomposition to examine the community structure, applied NLP including Name Entity Recognition, Sentimental Analysis and Topic Modelling on tweets to investigate the emotion cascade
 
 [paper](/pdf/hkna_paper.pdf)
-[code](/https://github.com/Oliz888/hk2019protest_network_analysis/blob/main/2_Network_graph.ipynb)
+[code](https://github.com/Oliz888/hk2019protest_network_analysis/blob/main/2_Network_graph.ipynb)
 [slides](/slides/How%20Revolution%20Spreads%20and%20Evolves%20on%20social%20media.pdf)
 
 <img src="images/emotion_cascade.png?raw=true"/>
@@ -20,7 +20,7 @@
 
 
 [paper](/pdf/Consensus%20Detection%20in%20Innovating%20voting%20process.pdf)
-[code](/https://github.com/Oliz888/Voting_Consensus_Detection/blob/main/voting_and_consensus.ipynb)
+[code](https://github.com/Oliz888/Voting_Consensus_Detection/blob/main/voting_and_consensus.ipynb)
 [slides](/slides/voting%20consensus%20slides.pdf)
 
 <img src="images/umap_pca.png?raw=true"/>
@@ -32,7 +32,7 @@
 ##### - Built and trained Logistic Regression, DecisionTree, SVM, RandomForest, XGBoost and GBDT to identify 5 primary indicators and 35 secondary indicators the key influential factor on the attitude of EU citizen towards UBI
 
 [paper](/pdf/UBI_paper.pdf)
-[code](/https://github.com/Oliz888/Predicting_UBI_Machine_Learning/blob/main/machine_learning.ipynb)
+[code](https://github.com/Oliz888/Predicting_UBI_Machine_Learning/blob/main/machine_learning.ipynb)
 [slides](/slides/UBI_slides.pdf)
 
 <img src="images/UBI.png?raw=true"/>
@@ -44,7 +44,7 @@
 ##### - Designed DID to construct quasi-experiment setting for causal inference to quantify the impacts
 
 [paper](/pdf/DID_paper.pdf)
-[code](/https://github.com/Oliz888/Economics_and_Statistics/blob/main/Final%20Project_sz614.Rmd)
+[code](https://github.com/Oliz888/Economics_and_Statistics/blob/main/Final%20Project_sz614.Rmd)
 
 <img src="images/DID.png?raw=true"/>
 
@@ -56,7 +56,7 @@
 ##### - Estimated the indirect effects and direct impacts of remittances in the context of parental work-related migration on the well-being and academic achievements of left-behind children.
 
 [paper](/pdf/remmittance_paper.pdf)
-[code](/https://github.com/Oliz888/Economics_and_Statistics/blob/main/DT%20final%20dradt.Rmd)
+[code](https://github.com/Oliz888/Economics_and_Statistics/blob/main/DT%20final%20dradt.Rmd)
 
 
 <img src="images/remmittance.png?raw=true"/>
@@ -96,7 +96,7 @@
 
 ### What if we have an Digital Agora? 
 
-[paper](/https://oliz0808eth.substack.com/p/what-if-we-have-an-digital-agora)
+[paper](https://oliz0808eth.substack.com/p/what-if-we-have-an-digital-agora)
 
 ##### - Reimagine Social Platform with Tokenization of Attention Economy, Bridging-based Algorithm and Quadratic Voting
 

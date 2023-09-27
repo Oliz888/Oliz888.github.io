@@ -62,13 +62,22 @@
 <img src="images/remmittance.png?raw=true"/>
 
 ---
+
 ### George Floyd protests' impact on the election result
 
 ##### - Employed fixed effects regression trating county's features as time-invariant variable to examine the influence of protest on election result
 
-
 [paper](/pdf/Georeg%20Floyd%20paper.pdf)
+[code](https://github.com/Oliz888/Economics_and_Statistics/blob/main/DT%20final%20dradt.Rmd)
 
+---
+
+### Review of a Dynamic Model of Housing Demand: Estimation and Policy Implications>
+
+##### - investigates the problem of household housing demand facing income and house price shocks. Two stage method by Bajari et al. (2013) is used and discrete state dynamic programming and fmin research are numerical methods applied
+
+[paper](/pdf/Dynamic%20Model%20of%20Housing%20Demand.pdf)
+[code](https://github.com/Oliz888/Economics_and_Statistics/tree/main/code_numerical)
 
 ---
 ---

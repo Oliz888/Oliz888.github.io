@@ -6,7 +6,7 @@
 ##### - Utilizes Bag of Words and Word2Vec methods, combined with KNN/hierarchical clustering, to identify songs with similar lyrics. Incorporates LDA and sentiment analysis for deeper lyrical understanding. Explores relationships between numerical (tempo, chord progression, key) and textual features using supervised machine learning.
 ##### - Trianing machine to understand the connection between elements in music, improving recommendation accuracy using machine leanring techniques and textual features 
 
-[paper](pdf/quantifying the complex relationship bwtween lyrics, chord progression and emotion .pdf)
+[paper](/pdf/quantifying the complex relationship bwtween lyrics, chord progression and emotion .pdf)
 [code](https://github.com/Oliz888/quantifying-textual-featue-of-a-song/blob/main/clean.ipynb)
 [webiste](https://music-recommendation.my.canva.site/)
 [blog](https://medium.com/@sz614/exploring-the-relationship-between-lyrics-and-chord-progression-using-text-clustering-and-random-50c123267357)
@@ -19,7 +19,7 @@
 
 ##### - Features an interface for a song similarity calculator that evaluates both lyrical and numerical attributes of songs. Utilizes cosine similarity for comparison, displaying results through an overlapping radar graph for visual analysis.  
 
-[whitepaper](pdf/How to Make Music Feature Explorer and Song Similarity Calculator in Streamlit.pdf)
+[whitepaper](/pdf/How to Make Music Feature Explorer and Song Similarity Calculator in Streamlit.pdf)
 [code](https://github.com/Oliz888/similarity-calculator-dashboard)
 [application](https://similarity-calculator-dashboard.streamlit.app/Similarity_Calculator)
 

@@ -11,7 +11,7 @@
 [webiste](https://music-recommendation.my.canva.site/)
 [blog](https://medium.com/@sz614/exploring-the-relationship-between-lyrics-and-chord-progression-using-text-clustering-and-random-50c123267357)
 
-<img src="images/song feature radar.png?raw=true"/>
+<img src="images/wordcloud.png?raw=true"/>
 
 ---
 

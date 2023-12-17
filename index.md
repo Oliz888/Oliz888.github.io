@@ -6,7 +6,6 @@
 ##### - Utilizes Bag of Words and Word2Vec methods, combined with KNN/hierarchical clustering, to identify songs with similar lyrics. Incorporates LDA and sentiment analysis for deeper lyrical understanding. Explores relationships between numerical (tempo, chord progression, key) and textual features using supervised machine learning.
 ##### - Trianing machine to understand the connection between elements in music, improving recommendation accuracy using machine leanring techniques and textual features 
 
-
 [paper](pdf/quantifying the complex relationship bwtween lyrics, chord progression and emotion .pdf)
 [code](https://github.com/Oliz888/quantifying-textual-featue-of-a-song/blob/main/clean.ipynb)
 [webiste](https://music-recommendation.my.canva.site/)
@@ -43,7 +42,6 @@
 ### How Consensus can be Involved through Innovating Voting Mechanism? Using Polis Platform as an Example
 
 ##### - Using PCA and UMAP to visualize the participants’ stance on a 2-dimensional map, uses Kmeans to cluster and classify group A and B, and uses centroid coords calculation to get the distance between two groups.
-
 
 [paper](/pdf/Consensus%20Detection%20in%20Innovating%20voting%20process.pdf)
 [code](https://github.com/Oliz888/Voting_Consensus_Detection/blob/main/voting_and_consensus.ipynb)
@@ -113,13 +111,19 @@
 ---
 ### Congressional Policy towards U.S. Asian Policy 
 
-[Analysis and Recommendation on the vote for Cohen Amendment to Burma Sanctions](https://github.com/Oliz888/Congressional-Asian-Policy/blob/main/Analysis%20and%20Recommendation%20on%20the%20vote%20for%20Cohen%20Amendment%20to%20Burma%20Sanctions.pdf)
-[Recommendation Regarding the Vote on Bonior’s Motion to Recommit and Bill of H.R.4444](https://github.com/Oliz888/Congressional-Asian-Policy/blob/main/Recommendation%20Regarding%20the%20Vote%20on%20Bonior%E2%80%99s%20Motion%20to%20Recommit%20and%20Bill%20of%20H.R.4444.pdf)
-[Recommendation Regarding the Vote on Korea Sanctions and Policy Enhancement Act (H.R. 757)](https://github.com/Oliz888/Congressional-Asian-Policy/blob/main/Recommendation%20Regarding%20the%20Vote%20on%20Korea%20Sanctions%20and%20Policy%20Enhancement%20Act%20(H.R.%20757)docx.pdf)
-[Recommendation Regarding the Vote on final Senate passage of HR.1314 (TPA)](https://github.com/Oliz888/Congressional-Asian-Policy/blob/main/Recommendation%20Regarding%20the%20Vote%20on%20final%20Senate%20passage%20of%20HR.1314%20(TPA).pdf)
-[Recommendation Regarding the Vote on final Senate passage of S.1169](https://github.com/Oliz888/Congressional-Asian-Policy/blob/main/Recommendation%20Regarding%20the%20Vote%20on%20final%20Senate%20passage%20of%20S.1169.pdf)
-[Recommendation on the Vote on the Currency Exchange Rate Oversight Reform Act of 2011 (S.1619)](https://github.com/Oliz888/Congressional-Asian-Policy/blob/main/Recommendation%20on%20the%20Vote%20on%20the%20Currency%20Exchange%20Rate%20Oversight%20Reform%20Act%20of%202011%20(S.1619)%20.pdf)
-[Vote on Dole:Smith Amendment and McCain:Kerry Amendment](https://github.com/Oliz888/Congressional-Asian-Policy/blob/main/Vote%20on%20Dole%3ASmith%20Amendment%20and%20McCain%3AKerry%20Amendment%20.pdf)
+##### - [Analysis and Recommendation on the vote for Cohen Amendment to Burma Sanctions](https://github.com/Oliz888/Congressional-Asian-Policy/blob/main/Analysis%20and%20Recommendation%20on%20the%20vote%20for%20Cohen%20Amendment%20to%20Burma%20Sanctions.pdf)
+
+##### - [Recommendation Regarding the Vote on Bonior’s Motion to Recommit and Bill of H.R.4444](https://github.com/Oliz888/Congressional-Asian-Policy/blob/main/Recommendation%20Regarding%20the%20Vote%20on%20Bonior%E2%80%99s%20Motion%20to%20Recommit%20and%20Bill%20of%20H.R.4444.pdf)
+
+##### - [Recommendation Regarding the Vote on Korea Sanctions and Policy Enhancement Act (H.R. 757)](https://github.com/Oliz888/Congressional-Asian-Policy/blob/main/Recommendation%20Regarding%20the%20Vote%20on%20Korea%20Sanctions%20and%20Policy%20Enhancement%20Act%20(H.R.%20757)docx.pdf)
+
+##### - [Recommendation Regarding the Vote on final Senate passage of HR.1314 (TPA)](https://github.com/Oliz888/Congressional-Asian-Policy/blob/main/Recommendation%20Regarding%20the%20Vote%20on%20final%20Senate%20passage%20of%20HR.1314%20(TPA).pdf)
+
+##### - [Recommendation Regarding the Vote on final Senate passage of S.1169](https://github.com/Oliz888/Congressional-Asian-Policy/blob/main/Recommendation%20Regarding%20the%20Vote%20on%20final%20Senate%20passage%20of%20S.1169.pdf)
+
+##### - [Recommendation on the Vote on the Currency Exchange Rate Oversight Reform Act of 2011 (S.1619)](https://github.com/Oliz888/Congressional-Asian-Policy/blob/main/Recommendation%20on%20the%20Vote%20on%20the%20Currency%20Exchange%20Rate%20Oversight%20Reform%20Act%20of%202011%20(S.1619)%20.pdf)
+
+##### - [Vote on Dole:Smith Amendment and McCain:Kerry Amendment](https://github.com/Oliz888/Congressional-Asian-Policy/blob/main/Vote%20on%20Dole%3ASmith%20Amendment%20and%20McCain%3AKerry%20Amendment%20.pdf)
 
 ---
 

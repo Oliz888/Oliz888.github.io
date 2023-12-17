@@ -1,6 +1,32 @@
 ## Selected Projects in Data Science
 
 ---
+### Quantifying the Complex Relationship between Lyrics, Chord Progression, and Emotion Stimulation Examine the Song Features 
+
+##### - Utilizes Bag of Words and Word2Vec methods, combined with KNN/hierarchical clustering, to identify songs with similar lyrics. Incorporates LDA and sentiment analysis for deeper lyrical understanding. Explores relationships between numerical (tempo, chord progression, key) and textual features using supervised machine learning.
+##### - Trianing machine to understand the connection between elements in music, improving recommendation accuracy using machine leanring techniques and textual features 
+
+
+[paper](pdf/quantifying the complex relationship bwtween lyrics, chord progression and emotion .pdf)
+[code](https://github.com/Oliz888/quantifying-textual-featue-of-a-song/blob/main/clean.ipynb)
+[webiste](https://music-recommendation.my.canva.site/)
+[blog](https://medium.com/@sz614/exploring-the-relationship-between-lyrics-and-chord-progression-using-text-clustering-and-random-50c123267357)
+
+<img src="images/song feature radar.png?raw=true"/>
+
+---
+
+### Build a song similarity calculator to improve the recommendation system 
+
+##### - Features an interface for a song similarity calculator that evaluates both lyrical and numerical attributes of songs. Utilizes cosine similarity for comparison, displaying results through an overlapping radar graph for visual analysis.  
+
+[whitepaper](pdf/How to Make Music Feature Explorer and Song Similarity Calculator in Streamlit.pdf)
+[code](https://github.com/Oliz888/similarity-calculator-dashboard)
+[application](https://similarity-calculator-dashboard.streamlit.app/Similarity_Calculator)
+
+<img src="images/dashboard.png?raw=true"/>
+
+---
 
 ### Network Analysis of Twitter to Identify Opinion Leader, Emotional Cascade and Community Structure
 
@@ -83,6 +109,17 @@
 ---
 
 ## Selected Articles on Policy Suggestion
+
+---
+### Congressional Policy towards U.S. Asian Policy 
+
+[Analysis and Recommendation on the vote for Cohen Amendment to Burma Sanctions](https://github.com/Oliz888/Congressional-Asian-Policy/blob/main/Analysis%20and%20Recommendation%20on%20the%20vote%20for%20Cohen%20Amendment%20to%20Burma%20Sanctions.pdf)
+[Recommendation Regarding the Vote on Bonior’s Motion to Recommit and Bill of H.R.4444](https://github.com/Oliz888/Congressional-Asian-Policy/blob/main/Recommendation%20Regarding%20the%20Vote%20on%20Bonior%E2%80%99s%20Motion%20to%20Recommit%20and%20Bill%20of%20H.R.4444.pdf)
+[Recommendation Regarding the Vote on Korea Sanctions and Policy Enhancement Act (H.R. 757)](https://github.com/Oliz888/Congressional-Asian-Policy/blob/main/Recommendation%20Regarding%20the%20Vote%20on%20Korea%20Sanctions%20and%20Policy%20Enhancement%20Act%20(H.R.%20757)docx.pdf)
+[Recommendation Regarding the Vote on final Senate passage of HR.1314 (TPA)](https://github.com/Oliz888/Congressional-Asian-Policy/blob/main/Recommendation%20Regarding%20the%20Vote%20on%20final%20Senate%20passage%20of%20HR.1314%20(TPA).pdf)
+[Recommendation Regarding the Vote on final Senate passage of S.1169](https://github.com/Oliz888/Congressional-Asian-Policy/blob/main/Recommendation%20Regarding%20the%20Vote%20on%20final%20Senate%20passage%20of%20S.1169.pdf)
+[Recommendation on the Vote on the Currency Exchange Rate Oversight Reform Act of 2011 (S.1619)](https://github.com/Oliz888/Congressional-Asian-Policy/blob/main/Recommendation%20on%20the%20Vote%20on%20the%20Currency%20Exchange%20Rate%20Oversight%20Reform%20Act%20of%202011%20(S.1619)%20.pdf)
+[Vote on Dole:Smith Amendment and McCain:Kerry Amendment](https://github.com/Oliz888/Congressional-Asian-Policy/blob/main/Vote%20on%20Dole%3ASmith%20Amendment%20and%20McCain%3AKerry%20Amendment%20.pdf)
 
 ---
 

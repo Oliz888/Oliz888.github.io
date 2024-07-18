@@ -1,5 +1,14 @@
 ## Selected Projects in Data Science
+---
+### Forecasting Cryptocurrency Prices Using Machine Learning: An Analysis of Reddit Discussions 
 
+##### - By leveraging techniques like Exploratory Data Analysis (EDA), Natural Language Processing (NLP), and Machine Learning (ML) on a big data scale, we aim to uncover hidden patterns and trends that can shed light on the realities of investing in the crypto markets.
+##### - Developed data pipelines for a dataset of 6 million rows in AWS, leveraging SparkNLP for sentiment analysis and time-series prediction using LSTM, ARIMA, and Synapse ML for causal inference to model the sentiment trends and prices relationship.
+
+[code](https://github.com/gu-ppol/spring-2024-reddit-bigdata-project-team-04?tab=readme-ov-file)
+[webiste](https://gu-ppol.github.io/spring-2024-reddit-bigdata-project-team-04/Introduction.html)
+
+<img src="images/wordcloud.png?raw=true"/>
 ---
 ### Quantifying the Complex Relationship between Lyrics, Chord Progression, and Emotion Stimulation Examine the Song Features 
 

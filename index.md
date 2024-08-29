@@ -8,7 +8,7 @@
 [code](https://github.com/gu-ppol/spring-2024-reddit-bigdata-project-team-04?tab=readme-ov-file)
 [webiste](https://gu-ppol.github.io/spring-2024-reddit-bigdata-project-team-04/Introduction.html)
 
-<img src="images/wordcloud.png?raw=true"/>
+<img src="images/lstm.png?raw=true"/>
 ---
 ### Quantifying the Complex Relationship between Lyrics, Chord Progression, and Emotion Stimulation Examine the Song Features 
 
